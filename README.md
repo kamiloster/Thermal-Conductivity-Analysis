@@ -1,4 +1,4 @@
-# ThermalConductivityAnalysis
+# Thermal Conductivity Analysis
 This script was prepared for the analysis of data obtained from the measurement of thermal conductivity.
 
 The input data are loaded via fileopenbox(). However, the input must be pre-processed: 
